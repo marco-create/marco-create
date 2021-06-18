@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**marco-create/marco-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marco. 
+An italian guy living in Poland. Right now, I'm running halfway through my PhD in Neuroscience 🧠   
+Former Neuropsychologist in Italy and currently swimming in programming ocean.
+ - 🐍 self-taught Python for handling data while having fun with scraping and solving tasks. 
+ - 🌐 spending time with Django framework, HTML, CSS, JavaScript and some Bootstrap
+    - [HarvardX for WebDev](https://www.youtube.com/playlist?list=PLJtsM7HUCUqmFn0cZI_Lxh6qkLjsVKlnv)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Page for my Wedding!
+- 🌱 I’m currently having fun at:
+    - [Frontend Mentor](https://www.frontendmentor.io/profile/marco-create)
+    - [Exercism Python](https://exercism.io/profiles/marco-create)   
+      
+- 👯 I’m looking to collaborate!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marco-ninghetto/)   
+
+- ⚡ former basketball player, skater, waste-time teenager and I love eating, everything.
