@@ -8,8 +8,6 @@ Former Neuropsychologist in Italy and currently swimming in programming ocean.
  - 🌐 spending time with Django framework, HTML, CSS, JavaScript and some Bootstrap
     - [HarvardX for WebDev](https://www.youtube.com/playlist?list=PLJtsM7HUCUqmFn0cZI_Lxh6qkLjsVKlnv)
 
-
-- 🔭 I’m currently working on Web Page for my Wedding!
 - 🌱 I’m currently having fun at:
     - [Frontend Mentor](https://www.frontendmentor.io/profile/marco-create)
     - [Exercism Python](https://exercism.io/profiles/marco-create)   
