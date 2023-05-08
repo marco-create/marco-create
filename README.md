@@ -2,7 +2,7 @@
 
 I'm Marco. 
 An italian guy living in Poland. Right now, I'm running halfway through my PhD in Neuroscience 🧠 and collaborating in software development for [BestRate company](https://github.com/bestrate-dev) ✏️  
-Former Neuropsychologist in Italy and currently swimming in programming ocean.
+Former Neuropsychologist in Italy and now swimming in the  programming ocean.
    
 Find my full professional experience and reach me out: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=15px height=15px />](https://www.linkedin.com/in/marco-ninghetto/)       
 
