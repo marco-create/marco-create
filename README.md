@@ -10,5 +10,6 @@ Find my full professional experience and reach me out: [<img src="https://cdn.js
 
 
 <br/>
-From time to time on Codewars:
+From time to time on Codewars:  
+
 ![Codewars](https://github.r2v.ch/codewars?user=marco-create&stroke=COLOR)
