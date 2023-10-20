@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Marco. 
-An italian guy living in Poland. Right now, I'm running my last year of PhD in Neuroscience 🧠 and collaborating in software development for [BestRate company](https://github.com/bestrate-dev) ✏️  
-Former Neuropsychologist in Italy and currently swimming in the  programming ocean.
+An italian guy living in Poland. Right now, I'm running my last year of PhD in Neuroscience 🧠   
+Previous occupation as a software developer @ [BestRate company](https://github.com/bestrate-dev) ✏️  
 
 [Reach me out](https://myspace-delta.vercel.app/)   
 
@@ -10,7 +10,7 @@ Former Neuropsychologist in Italy and currently swimming in the  programming oce
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=50px height=50px /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg"  width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=50px height=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=50px height=50px /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg"  width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=50px height=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=50px height=50px />
 
 
 <br/>
