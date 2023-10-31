@@ -3,7 +3,7 @@
 I'm Marco. 
 An italian guy living in Poland. Right now, I'm running my last year of PhD in Neuroscience 🧠   
    
-Contributing to [Viscacha visual field acuity measurement](https://github.com/grimwj/Viscacha2)   
+Contributing to [Viscacha visual field acuity measurement](https://github.com/grimwj/Viscacha2) 👁️   
    
 Previous occupation as a software developer @ [BestRate company](https://github.com/bestrate-dev) ✏️  
 
