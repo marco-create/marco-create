@@ -5,7 +5,7 @@ An italian guy living in Poland. Right now, I'm running my last year of PhD in N
    
 Contributing to [Viscacha visual field acuity measurement](https://github.com/grimwj/Viscacha2) 👁️   
    
-Previous occupation as a software developer @ [BestRate company](https://github.com/bestrate-dev) ✏️  
+Backend developer @ [PragmaLab company](https://www.linkedin.com/company/pragmalab-gmbh/) ✏️  
 
 [Reach me out](https://myspace-delta.vercel.app/)   
 
